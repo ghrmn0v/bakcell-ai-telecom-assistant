@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Telecom Assistant — Staff Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="app-layout">
+
+    <!-- ═══ SIDEBAR ═══ -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-brand">
+        <h1>🤖 AI<span class="brand-accent">Telecom</span></h1>
+        <p>Staff Dashboard</p>
+      </div>
+
+      <nav class="sidebar-nav">
+        <div class="nav-section">Support</div>
+        <div class="nav-item active" data-page="overview">
+          <span class="nav-icon">📊</span> Overview
+        </div>
+        <div class="nav-item" data-page="customers">
+          <span class="nav-icon">👥</span> All Customers
+        </div>
+        <div class="nav-item" data-page="analyse">
+          <span class="nav-icon">🔬</span> AI Customer Analysis
+        </div>
+
+        <div class="nav-section">Quick Access</div>
+        <div class="nav-item" onclick="window.location.href='/'">
+          <span class="nav-icon">🏠</span> Customer View
+        </div>
+      </nav>
+
+      <div class="sidebar-customer">
+        <label>Search Customer</label>
+        <select class="customer-select" id="staffCustomerSelect">
+          <option value="">Loading...</option>
+        </select>
+        <button class="btn btn-primary btn-sm" style="width:100%;margin-top:8px;justify-content:center;" onclick="loadCustomerDetail()">
+          Analyze Customer
+        </button>
+      </div>
+    </aside>
+
+    <!-- ═══ MAIN CONTENT ═══ -->
+    <main class="main-content">
+
+      <!-- Header -->
+      <div class="staff-header">
+        <h2>👩‍💼 Staff Dashboard</h2>
+        <p>AI-powered customer support tools</p>
+      </div>
+
+      <div class="page-content">
+
+        <!-- ═══ OVERVIEW ═══ -->
+        <section class="page-section active" id="page-overview">
+          <div class="stats-grid" id="staffStats">
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Total Customers</div>
+                <div class="card-icon blue">👥</div>
+              </div>
+              <div class="card-value" id="statTotalCustomers">--</div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Active</div>
+                <div class="card-icon green">✅</div>
+              </div>
+              <div class="card-value" id="statActiveCustomers">--</div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Blocked</div>
+                <div class="card-icon red">🚫</div>
+              </div>
+              <div class="card-value" id="statBlockedCustomers">--</div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Avg Balance</div>
+                <div class="card-icon orange">💰</div>
+              </div>
+              <div class="card-value" id="statAvgBalance">--</div>
+            </div>
+          </div>
+
+          <h3 class="section-title" style="font-size:16px;">Recent Escalations</h3>
+          <div id="escalationQueue">
+            <div class="card">
+              <div class="empty-state">
+                <div class="empty-icon">📋</div>
+                <h3>No escalations yet</h3>
+                <p>When customers escalate issues, they will appear here.</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ═══ ALL CUSTOMERS ═══ -->
+        <section class="page-section" id="page-customers">
+          <h2 class="section-title">👥 All Customers</h2>
+          <div class="card">
+            <div class="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Tariff</th>
+                    <th>Balance</th>
+                    <th>Status</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody id="staffCustomerTable"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <!-- ═══ AI CUSTOMER ANALYSIS ═══ -->
+        <section class="page-section" id="page-analyse">
+          <h2 class="section-title">🔬 AI Customer Analysis</h2>
+          <p class="section-subtitle">Select a customer from the sidebar and click "Analyze Customer"</p>
+          <div id="analysisResult"></div>
+        </section>
+
+      </div>
+    </main>
+  </div>
+
+  <script src="/js/staff.js"></script>
+</body>
+</html>

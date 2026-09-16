@@ -1,0 +1,8 @@
+﻿paket_id,ad,tip,hecm,muddet_gun,qiymet_azn,menbe
+P300MB,Gündəlik 300 MB,internet,300 MB,1,0.8,3-cü tərəf mənbə (2025)
+P1GB,Gündəlik 1 GB,internet,1 GB,1,1.5,3-cü tərəf mənbə (2025)
+P15GB,Aylıq 1.5 GB,internet,1.5 GB,30,6.0,3-cü tərəf mənbə (2025)
+P6GB,Aylıq 6 GB,internet,6 GB,30,12.0,3-cü tərəf mənbə (2025)
+P15GBM,Aylıq 15 GB,internet,15 GB,30,19.0,3-cü tərəf mənbə (2025)
+P30GB,Aylıq 30 GB,internet,30 GB,30,29.0,3-cü tərəf mənbə (2025)
+PGECE,Limitsiz gecə interneti (00:00-08:00),internet,Limitsiz (gecə),1,2.0,3-cü tərəf mənbə (2025)

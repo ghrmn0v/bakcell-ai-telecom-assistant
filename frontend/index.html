@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Telecom Assistant — Customer Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="app-layout">
+
+    <!-- ═══ SIDEBAR ═══ -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-brand">
+        <h1>🤖 AI<span class="brand-accent">Telecom</span></h1>
+        <p>Smart Assistant</p>
+      </div>
+
+      <nav class="sidebar-nav">
+        <div class="nav-section">Main</div>
+        <div class="nav-item active" data-page="overview">
+          <span class="nav-icon">📊</span> Dashboard
+        </div>
+        <div class="nav-item" data-page="insights">
+          <span class="nav-icon">💡</span> AI Insights
+        </div>
+        <div class="nav-item" data-page="recommendation">
+          <span class="nav-icon">📦</span> Recommendations
+        </div>
+        <div class="nav-item" data-page="predictions">
+          <span class="nav-icon">🔮</span> Predictions
+        </div>
+        <div class="nav-item" data-page="comparison">
+          <span class="nav-icon">⚖️</span> Compare Plans
+        </div>
+
+        <div class="nav-section">Support</div>
+        <div class="nav-item" data-page="chat">
+          <span class="nav-icon">💬</span> AI Assistant
+        </div>
+        <div class="nav-item" data-page="diagnose">
+          <span class="nav-icon">🩺</span> Telecom Doctor
+        </div>
+
+        <div class="nav-section">Account</div>
+        <div class="nav-item" data-page="transactions">
+          <span class="nav-icon">📋</span> Transactions
+        </div>
+      </nav>
+
+      <div class="sidebar-customer">
+        <label>Select Customer</label>
+        <select class="customer-select" id="customerSelect">
+          <option value="">Loading...</option>
+        </select>
+      </div>
+    </aside>
+
+    <!-- ═══ MAIN CONTENT ═══ -->
+    <main class="main-content">
+
+      <!-- Header -->
+      <div class="top-header">
+        <div class="header-left">
+          <div class="header-customer-info">
+            <div class="customer-avatar" id="headerAvatar">--</div>
+            <div>
+              <div class="customer-name-header" id="headerName">Loading...</div>
+              <div class="customer-phone" id="headerPhone">--</div>
+            </div>
+          </div>
+        </div>
+        <div class="header-right">
+          <span class="status-badge" id="headerStatus">--</span>
+        </div>
+      </div>
+
+      <!-- Page Content -->
+      <div class="page-content">
+
+        <!-- ═══ OVERVIEW ═══ -->
+        <section class="page-section active" id="page-overview">
+          <!-- AI Insight Hero -->
+          <div class="insight-hero" id="insightHero">
+            <div class="insight-badge">🤖 AI Insight</div>
+            <div class="insight-text" id="insightText">Loading AI insights...</div>
+            <div class="insight-sub" id="insightSub"></div>
+          </div>
+
+          <!-- Stats Grid -->
+          <div class="stats-grid" id="statsGrid">
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Balance</div>
+                <div class="card-icon green">💰</div>
+              </div>
+              <div class="card-value" id="statBalance">--</div>
+              <div class="card-subtitle">AZN available</div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Internet</div>
+                <div class="card-icon blue">📶</div>
+              </div>
+              <div class="card-value" id="statInternet">--</div>
+              <div class="card-subtitle" id="statInternetSub">GB remaining</div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Minutes</div>
+                <div class="card-icon orange">📞</div>
+              </div>
+              <div class="card-value" id="statMinutes">--</div>
+              <div class="card-subtitle">minutes left</div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">SMS</div>
+                <div class="card-icon purple">✉️</div>
+              </div>
+              <div class="card-value" id="statSms">--</div>
+              <div class="card-subtitle">messages left</div>
+            </div>
+          </div>
+
+          <!-- Current Plan + Usage Bars -->
+          <div class="grid-2">
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Current Plan</div>
+              </div>
+              <div class="tariff-card current" id="currentPlanCard">
+                <div class="tariff-name" id="planName">--</div>
+                <div class="tariff-price" id="planPrice">-- <span>AZN</span></div>
+                <ul class="tariff-features" id="planFeatures"></ul>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Usage This Period</div>
+              </div>
+              <div id="usageBars"></div>
+            </div>
+          </div>
+
+          <!-- Spending Chart + Predictions Preview -->
+          <div class="grid-2">
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Spending Trend</div>
+              </div>
+              <div class="chart-container">
+                <canvas id="spendingChart"></canvas>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">Quick Predictions</div>
+              </div>
+              <div id="predictionsPreview"></div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ═══ AI INSIGHTS ═══ -->
+        <section class="page-section" id="page-insights">
+          <h2 class="section-title">💡 AI Insights</h2>
+          <div class="insight-hero" id="insightHeroFull" style="margin-bottom:24px;"></div>
+          <div id="allInsights"></div>
+        </section>
+
+        <!-- ═══ RECOMMENDATION ═══ -->
+        <section class="page-section" id="page-recommendation">
+          <h2 class="section-title">📦 Personalized Recommendation</h2>
+          <p class="section-subtitle">AI-analyzed recommendation based on your usage patterns</p>
+          <div id="recommendationContent">
+            <div class="loading"><div class="spinner"></div></div>
+          </div>
+        </section>
+
+        <!-- ═══ PREDICTIONS ═══ -->
+        <section class="page-section" id="page-predictions">
+          <h2 class="section-title">🔮 Usage Predictions</h2>
+          <p class="section-subtitle">AI-powered predictions based on your current usage patterns</p>
+          <div id="predictionsContent">
+            <div class="loading"><div class="spinner"></div></div>
+          </div>
+        </section>
+
+        <!-- ═══ COMPARISON ═══ -->
+        <section class="page-section" id="page-comparison">
+          <h2 class="section-title">⚖️ Plan Comparison</h2>
+          <p class="section-subtitle">Compare your current plan with alternatives</p>
+          <div id="comparisonContent">
+            <div class="loading"><div class="spinner"></div></div>
+          </div>
+        </section>
+
+        <!-- ═══ AI CHAT ═══ -->
+        <section class="page-section" id="page-chat">
+          <div class="card" style="padding:0; overflow:hidden;">
+            <div class="chat-container">
+              <div class="chat-messages" id="chatMessages"></div>
+              <div class="chat-quick-actions" id="quickActions">
+                <button onclick="quickChat('What is my balance?')">💰 Balance</button>
+                <button onclick="quickChat('How much data have I used?')">📶 Data Usage</button>
+                <button onclick="quickChat('Recommend a better plan for me')">📦 Recommend</button>
+                <button onclick="quickChat('When will I run out of data?')">🔮 Predict</button>
+                <button onclick="quickChat('Show my recent transactions')">📋 Transactions</button>
+                <button onclick="quickChat('My internet is slow')">🩺 Diagnose</button>
+                <button onclick="quickChat('What plans are available?')">📋 All Plans</button>
+                <button onclick="quickChat('Why am I being charged extra?')">💰 Why Extra?</button>
+              </div>
+              <div class="chat-input-bar">
+                <input type="text" id="chatInput" placeholder="Ask about your account, packages, or any telecom question...">
+                <button onclick="sendChatMessage()">Send ➤</button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- ═══ TELECOM DOCTOR ═══ -->
+        <section class="page-section" id="page-diagnose">
+          <h2 class="section-title">🩺 AI Telecom Doctor</h2>
+          <p class="section-subtitle">Describe your problem and AI will diagnose it</p>
+          <div class="card" style="margin-bottom:20px;">
+            <textarea id="diagnoseInput" rows="3" placeholder="Describe your telecom problem... (e.g., 'My internet is very slow', 'My data stopped working', 'My balance decreased unexpectedly')" style="width:100%;border:2px solid var(--border);border-radius:var(--radius-md);padding:12px;font-size:14px;font-family:var(--font);resize:vertical;outline:none;"></textarea>
+            <div style="margin-top:12px;display:flex;gap:12px;">
+              <button class="btn btn-primary" onclick="runDiagnosis()">🔍 Diagnose</button>
+              <button class="btn btn-secondary" onclick="escalateToStaff()">📞 Contact Support</button>
+            </div>
+          </div>
+          <div id="diagnosisResult"></div>
+        </section>
+
+        <!-- ═══ TRANSACTIONS ═══ -->
+        <section class="page-section" id="page-transactions">
+          <h2 class="section-title">📋 Transaction History</h2>
+          <p class="section-subtitle">Recent account activity</p>
+          <div class="card">
+            <div class="table-wrapper">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Date</th>
+                    <th>Type</th>
+                    <th>Description</th>
+                    <th>Channel</th>
+                    <th>Amount</th>
+                  </tr>
+                </thead>
+                <tbody id="transactionTable"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+      </div>
+    </main>
+  </div>
+
+  <script src="/js/app.js"></script>
+  <script src="/js/charts.js"></script>
+</body>
+</html>

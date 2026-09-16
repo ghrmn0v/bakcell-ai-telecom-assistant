@@ -1,0 +1,356 @@
+﻿tranzaksiya_id,msisdn,tarix,tip,mebleg_azn,kanal,tesvir
+TX00275,994998443180,01.03.2026 01:05,tarif_deyisikliyi,-29.99,onlayn ödəniş,Tarif dəyişdirildi: GO Pro 29.99 (keçid 0₼ + abunə haqqı)
+TX00184,994552675112,01.03.2026 10:28,paket_alisi,-0.8,onlayn ödəniş,İnternet paketi alındı: Gündəlik 300 MB
+TX00081,994553340187,02.03.2026 06:47,balans_artirma,20,chatbot,Balans artırıldı
+TX00204,994554449454,02.03.2026 09:55,paket_alisi,-19.0,555 zəng mərkəzi,İnternet paketi alındı: Aylıq 15 GB
+TX00107,994554072247,03.03.2026 02:14,paket_alisi,-12.0,onlayn ödəniş,İnternet paketi alındı: Aylıq 6 GB
+TX00132,994558341704,03.03.2026 12:26,tarif_yenilenmesi,-11.99,Bakcell tətbiqi,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00058,994993537990,03.03.2026 13:08,tarif_yenilenmesi,-11.99,555 zəng mərkəzi,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00259,994993900009,03.03.2026 15:59,balans_artirma,1,555 zəng mərkəzi,Balans artırıldı
+TX00316,994552359852,04.03.2026 00:50,balans_yoxlama_ussd,-0.19,chatbot,Balans yoxlanışı (*100#)
+TX00048,994557777412,04.03.2026 05:09,paketdenkenar_sms,-0.57,onlayn ödəniş,"Paketdənkənar SMS (3 ədəd, 0.19₼)"
+TX00139,994557760207,04.03.2026 14:48,balans_artirma,1,USSD,Balans artırıldı
+TX00040,994996661760,04.03.2026 22:12,balans_artirma,1,onlayn ödəniş,Balans artırıldı
+TX00035,994996661760,05.03.2026 09:24,balans_artirma,3,onlayn ödəniş,Balans artırıldı
+TX00352,994552752368,07.03.2026 22:09,paketdenkenar_sms,-0.76,555 zəng mərkəzi,"Paketdənkənar SMS (4 ədəd, 0.19₼)"
+TX00072,994559729975,08.03.2026 01:44,paket_alisi,-19.0,Bakcell tətbiqi,İnternet paketi alındı: Aylıq 15 GB
+TX00351,994552752368,08.03.2026 07:14,paket_alisi,-6.0,chatbot,İnternet paketi alındı: Aylıq 1.5 GB
+TX00066,994559729975,08.03.2026 11:46,paket_alisi,-19.0,chatbot,İnternet paketi alındı: Aylıq 15 GB
+TX00026,994993212233,09.03.2026 10:52,balans_artirma,10,Bakcell tətbiqi,Balans artırıldı
+TX00318,994552359852,10.03.2026 02:32,paketdenkenar_sms,-0.95,USSD,"Paketdənkənar SMS (5 ədəd, 0.19₼)"
+TX00071,994559729975,10.03.2026 11:33,balans_artirma,3,USSD,Balans artırıldı
+TX00138,994557760207,10.03.2026 21:12,paketdenkenar_zeng,-1.5,Bakcell tətbiqi,"Paketdənkənar ölkədaxili zəng (5 dəq, 0.30₼/dəq)"
+TX00136,994557760207,11.03.2026 01:10,paketdenkenar_zeng,-1.5,onlayn ödəniş,"Paketdənkənar ölkədaxili zəng (5 dəq, 0.30₼/dəq)"
+TX00028,994993212233,11.03.2026 04:03,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00230,994557293068,11.03.2026 13:48,tarif_deyisikliyi,-29.99,Bakcell tətbiqi,Tarif dəyişdirildi: GO Pro 29.99 (keçid 0₼ + abunə haqqı)
+TX00354,994552752368,12.03.2026 02:58,paketdenkenar_sms,-0.57,onlayn ödəniş,"Paketdənkənar SMS (3 ədəd, 0.19₼)"
+TX00308,994557958492,12.03.2026 20:36,tarif_deyisikliyi,-7.99,chatbot,Tarif dəyişdirildi: GO 7.99 (keçid 0₼ + abunə haqqı)
+TX00236,994997872009,13.03.2026 08:20,tarif_yenilenmesi,-59.99,Bakcell tətbiqi,Tarif yeniləndi: GO Pro 59.99 (*960*2#)
+TX00079,994553340187,13.03.2026 08:48,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00128,994553377617,14.03.2026 12:23,balans_yoxlama_ussd,-0.19,chatbot,Balans yoxlanışı (*100#)
+TX00090,994996355150,15.03.2026 06:09,paket_alisi,-19.0,555 zəng mərkəzi,İnternet paketi alındı: Aylıq 15 GB
+TX00108,994554072247,15.03.2026 17:41,paketdenkenar_zeng,-1.8,chatbot,"Paketdənkənar ölkədaxili zəng (6 dəq, 0.30₼/dəq)"
+TX00246,994550862019,16.03.2026 05:44,balans_artirma,5,chatbot,Balans artırıldı
+TX00042,994557777412,16.03.2026 10:47,paket_alisi,-19.0,chatbot,İnternet paketi alındı: Aylıq 15 GB
+TX00047,994557777412,16.03.2026 21:13,balans_artirma,5,onlayn ödəniş,Balans artırıldı
+TX00328,994554677096,17.03.2026 17:04,paket_alisi,-6.0,chatbot,İnternet paketi alındı: Aylıq 1.5 GB
+TX00133,994558341704,18.03.2026 11:04,tarif_yenilenmesi,-11.99,555 zəng mərkəzi,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00343,994997322137,18.03.2026 16:32,tarif_yenilenmesi,-14.99,chatbot,Tarif yeniləndi: GO 14.99 (*915*2#)
+TX00313,994556372899,19.03.2026 08:49,paket_alisi,-1.5,USSD,İnternet paketi alındı: Gündəlik 1 GB
+TX00190,994554544091,20.03.2026 05:49,balans_artirma,10,onlayn ödəniş,Balans artırıldı
+TX00178,994554813734,20.03.2026 10:36,paket_alisi,-1.5,onlayn ödəniş,İnternet paketi alındı: Gündəlik 1 GB
+TX00272,994999284140,21.03.2026 04:50,tarif_yenilenmesi,-59.99,USSD,Tarif yeniləndi: GO Pro 59.99 (*960*2#)
+TX00341,994997322137,21.03.2026 19:57,tarif_yenilenmesi,-14.99,USSD,Tarif yeniləndi: GO 14.99 (*915*2#)
+TX00022,994994650752,22.03.2026 07:15,paketdenkenar_sms,-0.76,Bakcell tətbiqi,"Paketdənkənar SMS (4 ədəd, 0.19₼)"
+TX00280,994550639436,22.03.2026 18:31,balans_artirma,20,chatbot,Balans artırıldı
+TX00203,994554449454,23.03.2026 05:55,paketdenkenar_sms,-0.57,USSD,"Paketdənkənar SMS (3 ədəd, 0.19₼)"
+TX00034,994996661760,23.03.2026 07:26,tarif_yenilenmesi,-7.99,Bakcell tətbiqi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00144,994997924708,23.03.2026 18:38,balans_artirma,10,chatbot,Balans artırıldı
+TX00177,994554813734,24.03.2026 05:49,tarif_yenilenmesi,-19.99,chatbot,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00062,994993537990,24.03.2026 06:10,balans_artirma,5,chatbot,Balans artırıldı
+TX00067,994559729975,25.03.2026 01:08,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00194,994554544091,26.03.2026 19:52,balans_artirma,5,Bakcell tətbiqi,Balans artırıldı
+TX00115,994552690604,28.03.2026 16:53,balans_artirma,20,555 zəng mərkəzi,Balans artırıldı
+TX00270,994994008599,28.03.2026 19:20,balans_artirma,1,555 zəng mərkəzi,Balans artırıldı
+TX00229,994552542821,30.03.2026 09:14,balans_artirma,50,onlayn ödəniş,Balans artırıldı
+TX00044,994557777412,30.03.2026 12:23,balans_yoxlama_ussd,-0.19,USSD,Balans yoxlanışı (*100#)
+TX00297,994999874906,30.03.2026 21:23,paketdenkenar_zeng,-0.6,onlayn ödəniş,"Paketdənkənar ölkədaxili zəng (2 dəq, 0.30₼/dəq)"
+TX00096,994994628897,31.03.2026 08:47,paketdenkenar_zeng,-1.8,USSD,"Paketdənkənar ölkədaxili zəng (6 dəq, 0.30₼/dəq)"
+TX00015,994992819482,31.03.2026 11:17,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00252,994999835503,31.03.2026 18:42,paket_alisi,-2.0,555 zəng mərkəzi,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00206,994557504310,01.04.2026 14:24,tarif_yenilenmesi,-7.99,chatbot,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00016,994995749118,02.04.2026 20:01,tarif_deyisikliyi,-7.99,Bakcell tətbiqi,Tarif dəyişdirildi: GO 7.99 (keçid 0₼ + abunə haqqı)
+TX00348,994552752368,03.04.2026 20:30,balans_artirma,1,Bakcell tətbiqi,Balans artırıldı
+TX00303,994557958492,04.04.2026 14:32,balans_artirma,20,Bakcell tətbiqi,Balans artırıldı
+TX00264,994994008599,05.04.2026 00:56,balans_artirma,10,Bakcell tətbiqi,Balans artırıldı
+TX00087,994992616751,05.04.2026 15:15,paketdenkenar_sms,-0.76,Bakcell tətbiqi,"Paketdənkənar SMS (4 ədəd, 0.19₼)"
+TX00124,994553377617,05.04.2026 18:29,balans_artirma,3,onlayn ödəniş,Balans artırıldı
+TX00009,994551815908,06.04.2026 01:09,paket_alisi,-29.0,USSD,İnternet paketi alındı: Aylıq 30 GB
+TX00251,994999835503,06.04.2026 20:03,paketdenkenar_sms,-0.38,onlayn ödəniş,"Paketdənkənar SMS (2 ədəd, 0.19₼)"
+TX00002,994551815908,06.04.2026 23:54,paket_alisi,-1.5,555 zəng mərkəzi,İnternet paketi alındı: Gündəlik 1 GB
+TX00125,994553377617,07.04.2026 22:49,paketdenkenar_sms,-0.76,onlayn ödəniş,"Paketdənkənar SMS (4 ədəd, 0.19₼)"
+TX00092,994996355150,09.04.2026 00:52,paket_alisi,-19.0,chatbot,İnternet paketi alındı: Aylıq 15 GB
+TX00253,994995465925,09.04.2026 20:26,tarif_yenilenmesi,-11.99,555 zəng mərkəzi,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00189,994554544091,10.04.2026 17:41,balans_artirma,1,onlayn ödəniş,Balans artırıldı
+TX00152,994557576283,10.04.2026 18:48,paketdenkenar_zeng,-3.0,Bakcell tətbiqi,"Paketdənkənar ölkədaxili zəng (10 dəq, 0.30₼/dəq)"
+TX00257,994993900009,11.04.2026 11:04,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00126,994553377617,12.04.2026 00:37,tarif_deyisikliyi,-59.99,555 zəng mərkəzi,Tarif dəyişdirildi: GO Pro 59.99 (keçid 0₼ + abunə haqqı)
+TX00023,994994650752,14.04.2026 03:27,tarif_yenilenmesi,-14.99,USSD,Tarif yeniləndi: GO 14.99 (*915*2#)
+TX00278,994998443180,15.04.2026 05:36,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00076,994997986828,16.04.2026 15:18,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00103,994557167868,16.04.2026 17:48,balans_artirma,50,USSD,Balans artırıldı
+TX00036,994996661760,17.04.2026 01:42,paket_alisi,-2.0,chatbot,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00165,994557180023,17.04.2026 18:19,paket_alisi,-2.0,chatbot,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00175,994554813734,18.04.2026 14:22,balans_artirma,10,555 zəng mərkəzi,Balans artırıldı
+TX00299,994999874906,19.04.2026 19:13,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00186,994994610735,20.04.2026 05:58,tarif_yenilenmesi,-11.99,555 zəng mərkəzi,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00210,994550565294,20.04.2026 09:12,balans_artirma,3,onlayn ödəniş,Balans artırıldı
+TX00231,994557293068,20.04.2026 10:20,balans_artirma,10,USSD,Balans artırıldı
+TX00290,994993816133,21.04.2026 18:42,balans_artirma,3,Bakcell tətbiqi,Balans artırıldı
+TX00304,994557958492,21.04.2026 19:12,balans_yoxlama_ussd,-0.19,Bakcell tətbiqi,Balans yoxlanışı (*100#)
+TX00337,994555856732,22.04.2026 00:14,balans_artirma,10,555 zəng mərkəzi,Balans artırıldı
+TX00213,994550565294,23.04.2026 10:08,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00181,994552675112,23.04.2026 17:14,paketdenkenar_zeng,-2.1,USSD,"Paketdənkənar ölkədaxili zəng (7 dəq, 0.30₼/dəq)"
+TX00323,994550663847,24.04.2026 05:47,tarif_yenilenmesi,-7.99,chatbot,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00302,994557958492,24.04.2026 15:41,tarif_yenilenmesi,-11.99,chatbot,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00322,994550663847,25.04.2026 10:37,paket_alisi,-19.0,USSD,İnternet paketi alındı: Aylıq 15 GB
+TX00212,994550565294,25.04.2026 13:49,paket_alisi,-29.0,555 zəng mərkəzi,İnternet paketi alındı: Aylıq 30 GB
+TX00086,994992616751,26.04.2026 02:39,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00077,994553340187,26.04.2026 05:52,balans_yoxlama_ussd,-0.19,Bakcell tətbiqi,Balans yoxlanışı (*100#)
+TX00148,994997924708,26.04.2026 06:26,balans_artirma,20,onlayn ödəniş,Balans artırıldı
+TX00293,994999874906,27.04.2026 18:28,tarif_yenilenmesi,-7.99,onlayn ödəniş,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00117,994552690604,27.04.2026 21:07,balans_yoxlama_ussd,-0.19,USSD,Balans yoxlanışı (*100#)
+TX00173,994554813734,28.04.2026 03:22,balans_artirma,5,555 zəng mərkəzi,Balans artırıldı
+TX00214,994550565294,28.04.2026 15:27,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00056,994993537990,29.04.2026 10:33,paketdenkenar_zeng,-0.3,onlayn ödəniş,"Paketdənkənar ölkədaxili zəng (1 dəq, 0.30₼/dəq)"
+TX00345,994554577691,30.04.2026 00:41,tarif_yenilenmesi,-14.99,USSD,Tarif yeniləndi: GO 14.99 (*915*2#)
+TX00332,994555856732,30.04.2026 04:49,paketdenkenar_zeng,-1.5,Bakcell tətbiqi,"Paketdənkənar ölkədaxili zəng (5 dəq, 0.30₼/dəq)"
+TX00208,994557504310,30.04.2026 14:52,balans_artirma,5,Bakcell tətbiqi,Balans artırıldı
+TX00249,994999835503,01.05.2026 00:12,balans_artirma,50,onlayn ödəniş,Balans artırıldı
+TX00097,994550831240,01.05.2026 08:07,balans_yoxlama_ussd,-0.19,Bakcell tətbiqi,Balans yoxlanışı (*100#)
+TX00150,994557576283,01.05.2026 11:03,balans_artirma,5,onlayn ödəniş,Balans artırıldı
+TX00334,994555856732,02.05.2026 11:57,paketdenkenar_sms,-0.76,onlayn ödəniş,"Paketdənkənar SMS (4 ədəd, 0.19₼)"
+TX00064,994993537990,03.05.2026 01:31,paketdenkenar_sms,-0.57,555 zəng mərkəzi,"Paketdənkənar SMS (3 ədəd, 0.19₼)"
+TX00197,994999183623,03.05.2026 07:36,tarif_yenilenmesi,-11.99,Bakcell tətbiqi,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00049,994557777412,03.05.2026 12:51,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00326,994554677096,03.05.2026 15:40,balans_artirma,1,onlayn ödəniş,Balans artırıldı
+TX00039,994996661760,05.05.2026 01:47,tarif_yenilenmesi,-7.99,Bakcell tətbiqi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00344,994554577691,05.05.2026 18:39,balans_artirma,3,Bakcell tətbiqi,Balans artırıldı
+TX00069,994559729975,06.05.2026 09:33,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00215,994550565294,06.05.2026 20:20,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00122,994553377617,09.05.2026 04:12,balans_artirma,10,555 zəng mərkəzi,Balans artırıldı
+TX00014,994992819482,09.05.2026 17:17,paket_alisi,-1.5,chatbot,İnternet paketi alındı: Gündəlik 1 GB
+TX00105,994557167868,10.05.2026 05:59,tarif_deyisikliyi,-11.99,USSD,Tarif dəyişdirildi: GO 11.99 (keçid 0₼ + abunə haqqı)
+TX00157,994992883143,10.05.2026 17:40,tarif_yenilenmesi,-11.99,Bakcell tətbiqi,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00123,994553377617,11.05.2026 03:45,tarif_yenilenmesi,-29.99,Bakcell tətbiqi,Tarif yeniləndi: GO Pro 29.99 (*930*2#)
+TX00276,994998443180,12.05.2026 02:27,paket_alisi,-19.0,Bakcell tətbiqi,İnternet paketi alındı: Aylıq 15 GB
+TX00151,994557576283,12.05.2026 07:22,paket_alisi,-0.8,chatbot,İnternet paketi alındı: Gündəlik 300 MB
+TX00013,994992819482,14.05.2026 12:07,paketdenkenar_zeng,-2.1,555 zəng mərkəzi,"Paketdənkənar ölkədaxili zəng (7 dəq, 0.30₼/dəq)"
+TX00099,994550831240,15.05.2026 04:55,tarif_deyisikliyi,-19.99,Bakcell tətbiqi,Tarif dəyişdirildi: GO 19.99 (keçid 0₼ + abunə haqqı)
+TX00265,994994008599,15.05.2026 12:33,paketdenkenar_zeng,-2.7,USSD,"Paketdənkənar ölkədaxili zəng (9 dəq, 0.30₼/dəq)"
+TX00143,994991669156,15.05.2026 13:52,tarif_yenilenmesi,-19.99,onlayn ödəniş,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00179,994554813734,15.05.2026 23:32,balans_artirma,20,chatbot,Balans artırıldı
+TX00018,994995749118,16.05.2026 03:42,balans_artirma,1,Bakcell tətbiqi,Balans artırıldı
+TX00338,994997322137,17.05.2026 05:45,paket_alisi,-0.8,onlayn ödəniş,İnternet paketi alındı: Gündəlik 300 MB
+TX00256,994995465925,17.05.2026 06:43,paketdenkenar_sms,-0.57,Bakcell tətbiqi,"Paketdənkənar SMS (3 ədəd, 0.19₼)"
+TX00339,994997322137,18.05.2026 08:36,balans_artirma,20,onlayn ödəniş,Balans artırıldı
+TX00140,994557760207,18.05.2026 11:51,balans_artirma,1,USSD,Balans artırıldı
+TX00118,994552690604,19.05.2026 08:32,balans_artirma,1,onlayn ödəniş,Balans artırıldı
+TX00025,994993212233,19.05.2026 19:11,paketdenkenar_zeng,-1.5,chatbot,"Paketdənkənar ölkədaxili zəng (5 dəq, 0.30₼/dəq)"
+TX00041,994996661760,19.05.2026 20:29,paket_alisi,-2.0,USSD,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00237,994997872009,21.05.2026 07:10,balans_artirma,50,chatbot,Balans artırıldı
+TX00268,994994008599,21.05.2026 07:51,paketdenkenar_zeng,-0.9,chatbot,"Paketdənkənar ölkədaxili zəng (3 dəq, 0.30₼/dəq)"
+TX00164,994557180023,22.05.2026 00:13,paket_alisi,-12.0,555 zəng mərkəzi,İnternet paketi alındı: Aylıq 6 GB
+TX00262,994993900009,22.05.2026 00:17,paketdenkenar_zeng,-0.6,chatbot,"Paketdənkənar ölkədaxili zəng (2 dəq, 0.30₼/dəq)"
+TX00221,994996605366,22.05.2026 06:25,paketdenkenar_sms,-0.19,Bakcell tətbiqi,"Paketdənkənar SMS (1 ədəd, 0.19₼)"
+TX00051,994558885393,22.05.2026 08:58,tarif_yenilenmesi,-19.99,chatbot,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00114,994552690604,22.05.2026 13:01,tarif_deyisikliyi,-7.99,onlayn ödəniş,Tarif dəyişdirildi: GO 7.99 (keçid 0₼ + abunə haqqı)
+TX00267,994994008599,23.05.2026 12:56,tarif_deyisikliyi,-59.99,USSD,Tarif dəyişdirildi: GO Pro 59.99 (keçid 0₼ + abunə haqqı)
+TX00008,994551815908,24.05.2026 03:12,balans_artirma,10,onlayn ödəniş,Balans artırıldı
+TX00167,994557180023,24.05.2026 11:03,balans_artirma,3,onlayn ödəniş,Balans artırıldı
+TX00260,994993900009,24.05.2026 19:14,tarif_deyisikliyi,-7.99,chatbot,Tarif dəyişdirildi: GO 7.99 (keçid 0₼ + abunə haqqı)
+TX00324,994550663847,24.05.2026 19:41,tarif_deyisikliyi,-19.99,555 zəng mərkəzi,Tarif dəyişdirildi: GO 19.99 (keçid 0₼ + abunə haqqı)
+TX00283,994550639436,24.05.2026 20:47,tarif_deyisikliyi,-29.99,chatbot,Tarif dəyişdirildi: GO Pro 29.99 (keçid 0₼ + abunə haqqı)
+TX00093,994996355150,25.05.2026 05:43,paketdenkenar_zeng,-2.4,chatbot,"Paketdənkənar ölkədaxili zəng (8 dəq, 0.30₼/dəq)"
+TX00129,994553377617,25.05.2026 14:52,paket_alisi,-2.0,onlayn ödəniş,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00325,994554677096,25.05.2026 19:46,paket_alisi,-6.0,555 zəng mərkəzi,İnternet paketi alındı: Aylıq 1.5 GB
+TX00277,994998443180,26.05.2026 02:08,tarif_deyisikliyi,-7.99,555 zəng mərkəzi,Tarif dəyişdirildi: GO 7.99 (keçid 0₼ + abunə haqqı)
+TX00010,994992819482,26.05.2026 03:13,tarif_yenilenmesi,-7.99,chatbot,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00353,994552752368,26.05.2026 05:57,tarif_yenilenmesi,-7.99,Bakcell tətbiqi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00340,994997322137,27.05.2026 02:30,tarif_yenilenmesi,-14.99,USSD,Tarif yeniləndi: GO 14.99 (*915*2#)
+TX00209,994557504310,27.05.2026 05:19,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00333,994555856732,27.05.2026 12:22,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00100,994550831240,27.05.2026 17:26,paketdenkenar_zeng,-2.4,USSD,"Paketdənkənar ölkədaxili zəng (8 dəq, 0.30₼/dəq)"
+TX00306,994557958492,27.05.2026 23:13,tarif_deyisikliyi,-14.99,Bakcell tətbiqi,Tarif dəyişdirildi: GO 14.99 (keçid 0₼ + abunə haqqı)
+TX00078,994553340187,30.05.2026 02:01,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00156,994992883143,30.05.2026 04:47,paket_alisi,-19.0,USSD,İnternet paketi alındı: Aylıq 15 GB
+TX00305,994557958492,30.05.2026 05:44,balans_yoxlama_ussd,-0.19,chatbot,Balans yoxlanışı (*100#)
+TX00193,994554544091,30.05.2026 09:24,tarif_deyisikliyi,-7.99,USSD,Tarif dəyişdirildi: GO 7.99 (keçid 0₼ + abunə haqqı)
+TX00342,994997322137,30.05.2026 15:58,paket_alisi,-2.0,chatbot,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00063,994993537990,31.05.2026 13:44,tarif_yenilenmesi,-11.99,onlayn ödəniş,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00258,994993900009,01.06.2026 09:52,paket_alisi,-19.0,USSD,İnternet paketi alındı: Aylıq 15 GB
+TX00222,994996605366,01.06.2026 17:04,tarif_yenilenmesi,-7.99,chatbot,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00288,994993816133,01.06.2026 18:05,balans_yoxlama_ussd,-0.19,USSD,Balans yoxlanışı (*100#)
+TX00111,994554072247,02.06.2026 01:15,balans_artirma,50,USSD,Balans artırıldı
+TX00226,994996605366,02.06.2026 23:11,balans_artirma,10,chatbot,Balans artırıldı
+TX00336,994555856732,03.06.2026 08:18,paket_alisi,-6.0,USSD,İnternet paketi alındı: Aylıq 1.5 GB
+TX00269,994994008599,03.06.2026 08:39,tarif_yenilenmesi,-11.99,USSD,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00284,994993816133,03.06.2026 16:24,paket_alisi,-6.0,USSD,İnternet paketi alındı: Aylıq 1.5 GB
+TX00216,994550565294,03.06.2026 18:14,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00301,994557958492,04.06.2026 01:25,balans_artirma,50,Bakcell tətbiqi,Balans artırıldı
+TX00307,994557958492,04.06.2026 17:30,balans_artirma,5,onlayn ödəniş,Balans artırıldı
+TX00287,994993816133,04.06.2026 18:56,tarif_yenilenmesi,-7.99,onlayn ödəniş,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00300,994557958492,04.06.2026 21:07,balans_artirma,10,Bakcell tətbiqi,Balans artırıldı
+TX00219,994996605366,07.06.2026 00:58,tarif_deyisikliyi,-11.99,onlayn ödəniş,Tarif dəyişdirildi: GO 11.99 (keçid 0₼ + abunə haqqı)
+TX00220,994996605366,08.06.2026 02:56,paket_alisi,-2.0,USSD,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00083,994992616751,08.06.2026 04:14,paket_alisi,-12.0,chatbot,İnternet paketi alındı: Aylıq 6 GB
+TX00207,994557504310,08.06.2026 06:31,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00030,994993212233,08.06.2026 20:16,balans_artirma,50,onlayn ödəniş,Balans artırıldı
+TX00163,994557180023,09.06.2026 17:57,balans_artirma,20,onlayn ödəniş,Balans artırıldı
+TX00149,994557576283,10.06.2026 00:24,balans_yoxlama_ussd,-0.19,chatbot,Balans yoxlanışı (*100#)
+TX00185,994552675112,10.06.2026 03:21,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00289,994993816133,10.06.2026 08:54,tarif_yenilenmesi,-7.99,Bakcell tətbiqi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00228,994552542821,11.06.2026 12:01,balans_yoxlama_ussd,-0.19,Bakcell tətbiqi,Balans yoxlanışı (*100#)
+TX00202,994554449454,11.06.2026 16:32,paket_alisi,-2.0,Bakcell tətbiqi,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00254,994995465925,12.06.2026 07:02,paketdenkenar_zeng,-1.5,Bakcell tətbiqi,"Paketdənkənar ölkədaxili zəng (5 dəq, 0.30₼/dəq)"
+TX00029,994993212233,12.06.2026 15:14,tarif_yenilenmesi,-7.99,Bakcell tətbiqi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00102,994550831240,13.06.2026 07:27,paket_alisi,-19.0,chatbot,İnternet paketi alındı: Aylıq 15 GB
+TX00295,994999874906,13.06.2026 23:11,balans_artirma,10,Bakcell tətbiqi,Balans artırıldı
+TX00159,994557180023,14.06.2026 18:46,balans_artirma,1,onlayn ödəniş,Balans artırıldı
+TX00098,994550831240,15.06.2026 05:32,paket_alisi,-2.0,Bakcell tətbiqi,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00045,994557777412,15.06.2026 16:16,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00238,994997872009,15.06.2026 23:42,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00024,994994650752,16.06.2026 03:26,paketdenkenar_sms,-0.57,Bakcell tətbiqi,"Paketdənkənar SMS (3 ədəd, 0.19₼)"
+TX00180,994554813734,16.06.2026 21:32,paketdenkenar_sms,-0.95,USSD,"Paketdənkənar SMS (5 ədəd, 0.19₼)"
+TX00012,994992819482,17.06.2026 08:35,paket_alisi,-0.8,onlayn ödəniş,İnternet paketi alındı: Gündəlik 300 MB
+TX00240,994550862019,17.06.2026 15:06,balans_artirma,50,chatbot,Balans artırıldı
+TX00033,994993212233,18.06.2026 00:09,tarif_yenilenmesi,-7.99,Bakcell tətbiqi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00168,994995378383,18.06.2026 00:21,balans_artirma,1,Bakcell tətbiqi,Balans artırıldı
+TX00171,994995378383,19.06.2026 13:17,tarif_deyisikliyi,-14.99,555 zəng mərkəzi,Tarif dəyişdirildi: GO 14.99 (keçid 0₼ + abunə haqqı)
+TX00261,994993900009,20.06.2026 16:40,tarif_yenilenmesi,-11.99,USSD,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00170,994995378383,20.06.2026 17:39,tarif_yenilenmesi,-7.99,onlayn ödəniş,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00312,994556372899,21.06.2026 03:52,balans_yoxlama_ussd,-0.19,Bakcell tətbiqi,Balans yoxlanışı (*100#)
+TX00091,994996355150,21.06.2026 05:05,paketdenkenar_sms,-0.76,chatbot,"Paketdənkənar SMS (4 ədəd, 0.19₼)"
+TX00084,994992616751,21.06.2026 08:08,paket_alisi,-29.0,USSD,İnternet paketi alındı: Aylıq 30 GB
+TX00154,994557576283,21.06.2026 12:05,paket_alisi,-19.0,Bakcell tətbiqi,İnternet paketi alındı: Aylıq 15 GB
+TX00274,994999284140,21.06.2026 16:21,balans_yoxlama_ussd,-0.19,USSD,Balans yoxlanışı (*100#)
+TX00153,994557576283,21.06.2026 22:27,paketdenkenar_sms,-0.95,Bakcell tətbiqi,"Paketdənkənar SMS (5 ədəd, 0.19₼)"
+TX00121,994559310025,22.06.2026 03:30,balans_artirma,1,chatbot,Balans artırıldı
+TX00273,994999284140,22.06.2026 21:44,balans_artirma,1,555 zəng mərkəzi,Balans artırıldı
+TX00346,994554577691,23.06.2026 06:50,balans_artirma,5,onlayn ödəniş,Balans artırıldı
+TX00070,994559729975,23.06.2026 20:14,balans_artirma,3,onlayn ödəniş,Balans artırıldı
+TX00286,994993816133,23.06.2026 23:35,balans_artirma,3,Bakcell tətbiqi,Balans artırıldı
+TX00046,994557777412,24.06.2026 09:17,paketdenkenar_zeng,-1.8,onlayn ödəniş,"Paketdənkənar ölkədaxili zəng (6 dəq, 0.30₼/dəq)"
+TX00199,994999183623,25.06.2026 10:21,paketdenkenar_sms,-0.95,555 zəng mərkəzi,"Paketdənkənar SMS (5 ədəd, 0.19₼)"
+TX00135,994557760207,25.06.2026 21:36,balans_yoxlama_ussd,-0.19,Bakcell tətbiqi,Balans yoxlanışı (*100#)
+TX00225,994996605366,27.06.2026 21:26,paket_alisi,-6.0,USSD,İnternet paketi alındı: Aylıq 1.5 GB
+TX00085,994992616751,28.06.2026 06:39,paketdenkenar_sms,-0.38,Bakcell tətbiqi,"Paketdənkənar SMS (2 ədəd, 0.19₼)"
+TX00057,994993537990,28.06.2026 07:03,tarif_yenilenmesi,-11.99,chatbot,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00211,994550565294,28.06.2026 08:11,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00005,994551815908,28.06.2026 12:47,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00004,994551815908,28.06.2026 23:45,paketdenkenar_zeng,-2.4,onlayn ödəniş,"Paketdənkənar ölkədaxili zəng (8 dəq, 0.30₼/dəq)"
+TX00043,994557777412,29.06.2026 23:06,tarif_deyisikliyi,-11.99,USSD,Tarif dəyişdirildi: GO 11.99 (keçid 0₼ + abunə haqqı)
+TX00158,994992883143,30.06.2026 09:10,tarif_deyisikliyi,-19.99,USSD,Tarif dəyişdirildi: GO 19.99 (keçid 0₼ + abunə haqqı)
+TX00031,994993212233,30.06.2026 14:04,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00019,994995749118,30.06.2026 20:46,balans_artirma,20,Bakcell tətbiqi,Balans artırıldı
+TX00089,994996355150,01.07.2026 03:56,paketdenkenar_zeng,-0.9,chatbot,"Paketdənkənar ölkədaxili zəng (3 dəq, 0.30₼/dəq)"
+TX00110,994554072247,01.07.2026 04:32,paket_alisi,-1.5,chatbot,İnternet paketi alındı: Gündəlik 1 GB
+TX00147,994997924708,01.07.2026 16:00,paket_alisi,-0.8,chatbot,İnternet paketi alındı: Gündəlik 300 MB
+TX00094,994994628897,02.07.2026 03:53,paket_alisi,-19.0,USSD,İnternet paketi alındı: Aylıq 15 GB
+TX00255,994995465925,03.07.2026 07:02,balans_artirma,1,Bakcell tətbiqi,Balans artırıldı
+TX00317,994552359852,03.07.2026 17:07,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00248,994999835503,03.07.2026 22:52,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00200,994554449454,05.07.2026 02:18,balans_yoxlama_ussd,-0.19,USSD,Balans yoxlanışı (*100#)
+TX00001,994551815908,05.07.2026 19:01,balans_artirma,10,Bakcell tətbiqi,Balans artırıldı
+TX00271,994999284140,06.07.2026 05:22,paket_alisi,-19.0,chatbot,İnternet paketi alındı: Aylıq 15 GB
+TX00169,994995378383,06.07.2026 10:14,balans_artirma,5,onlayn ödəniş,Balans artırıldı
+TX00054,994558885393,06.07.2026 11:50,tarif_yenilenmesi,-19.99,onlayn ödəniş,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00296,994999874906,07.07.2026 18:47,balans_artirma,50,onlayn ödəniş,Balans artırıldı
+TX00061,994993537990,08.07.2026 20:06,paket_alisi,-1.5,USSD,İnternet paketi alındı: Gündəlik 1 GB
+TX00217,994550565294,09.07.2026 07:15,paket_alisi,-2.0,USSD,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00218,994996605366,10.07.2026 03:07,balans_artirma,5,onlayn ödəniş,Balans artırıldı
+TX00243,994550862019,10.07.2026 04:21,paket_alisi,-2.0,555 zəng mərkəzi,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00141,994991669156,10.07.2026 09:09,tarif_yenilenmesi,-19.99,Bakcell tətbiqi,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00294,994999874906,10.07.2026 20:05,tarif_yenilenmesi,-7.99,onlayn ödəniş,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00113,994554072247,11.07.2026 02:26,balans_yoxlama_ussd,-0.19,Bakcell tətbiqi,Balans yoxlanışı (*100#)
+TX00101,994550831240,13.07.2026 09:46,balans_artirma,5,USSD,Balans artırıldı
+TX00011,994992819482,13.07.2026 18:54,paket_alisi,-6.0,USSD,İnternet paketi alındı: Aylıq 1.5 GB
+TX00329,994554677096,14.07.2026 19:56,tarif_yenilenmesi,-11.99,USSD,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00285,994993816133,14.07.2026 21:37,paketdenkenar_sms,-0.38,Bakcell tətbiqi,"Paketdənkənar SMS (2 ədəd, 0.19₼)"
+TX00142,994991669156,15.07.2026 05:03,paket_alisi,-0.8,555 zəng mərkəzi,İnternet paketi alındı: Gündəlik 300 MB
+TX00205,994557504310,15.07.2026 13:09,balans_artirma,10,chatbot,Balans artırıldı
+TX00281,994550639436,15.07.2026 21:21,paket_alisi,-12.0,USSD,İnternet paketi alındı: Aylıq 6 GB
+TX00116,994552690604,16.07.2026 04:35,balans_artirma,3,Bakcell tətbiqi,Balans artırıldı
+TX00059,994993537990,16.07.2026 12:07,tarif_yenilenmesi,-11.99,Bakcell tətbiqi,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00350,994552752368,16.07.2026 21:55,balans_artirma,50,Bakcell tətbiqi,Balans artırıldı
+TX00003,994551815908,17.07.2026 20:27,paket_alisi,-1.5,Bakcell tətbiqi,İnternet paketi alındı: Gündəlik 1 GB
+TX00232,994557293068,20.07.2026 10:36,tarif_deyisikliyi,-29.99,USSD,Tarif dəyişdirildi: GO Pro 29.99 (keçid 0₼ + abunə haqqı)
+TX00017,994995749118,20.07.2026 13:51,paket_alisi,-19.0,onlayn ödəniş,İnternet paketi alındı: Aylıq 15 GB
+TX00055,994558885393,20.07.2026 16:32,balans_artirma,3,555 zəng mərkəzi,Balans artırıldı
+TX00130,994558341704,22.07.2026 01:49,paketdenkenar_zeng,-2.7,chatbot,"Paketdənkənar ölkədaxili zəng (9 dəq, 0.30₼/dəq)"
+TX00330,994555856732,22.07.2026 03:15,balans_artirma,10,USSD,Balans artırıldı
+TX00075,994997986828,23.07.2026 07:57,balans_artirma,50,Bakcell tətbiqi,Balans artırıldı
+TX00068,994559729975,23.07.2026 16:35,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00279,994550639436,23.07.2026 23:02,balans_artirma,20,chatbot,Balans artırıldı
+TX00145,994997924708,24.07.2026 07:33,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00187,994994610735,24.07.2026 09:04,paketdenkenar_zeng,-2.7,onlayn ödəniş,"Paketdənkənar ölkədaxili zəng (9 dəq, 0.30₼/dəq)"
+TX00233,994557293068,24.07.2026 16:59,paketdenkenar_zeng,-1.5,onlayn ödəniş,"Paketdənkənar ölkədaxili zəng (5 dəq, 0.30₼/dəq)"
+TX00053,994558885393,25.07.2026 05:01,balans_artirma,20,chatbot,Balans artırıldı
+TX00160,994557180023,25.07.2026 05:06,paket_alisi,-2.0,555 zəng mərkəzi,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00188,994994610735,26.07.2026 06:46,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00349,994552752368,26.07.2026 11:38,balans_artirma,1,USSD,Balans artırıldı
+TX00234,994997872009,26.07.2026 11:54,tarif_yenilenmesi,-59.99,Bakcell tətbiqi,Tarif yeniləndi: GO Pro 59.99 (*960*2#)
+TX00166,994557180023,26.07.2026 12:52,balans_artirma,3,onlayn ödəniş,Balans artırıldı
+TX00027,994993212233,27.07.2026 01:51,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00192,994554544091,27.07.2026 11:01,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00060,994993537990,27.07.2026 17:47,balans_artirma,20,chatbot,Balans artırıldı
+TX00196,994999183623,28.07.2026 01:29,paketdenkenar_sms,-0.19,555 zəng mərkəzi,"Paketdənkənar SMS (1 ədəd, 0.19₼)"
+TX00052,994558885393,29.07.2026 01:26,paket_alisi,-2.0,chatbot,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00198,994999183623,29.07.2026 05:55,balans_artirma,1,chatbot,Balans artırıldı
+TX00315,994552359852,29.07.2026 08:32,paketdenkenar_zeng,-1.5,onlayn ödəniş,"Paketdənkənar ölkədaxili zəng (5 dəq, 0.30₼/dəq)"
+TX00112,994554072247,31.07.2026 00:09,paket_alisi,-19.0,chatbot,İnternet paketi alındı: Aylıq 15 GB
+TX00104,994557167868,01.08.2026 02:42,balans_artirma,20,Bakcell tətbiqi,Balans artırıldı
+TX00355,994552752368,01.08.2026 13:38,paketdenkenar_zeng,-2.4,chatbot,"Paketdənkənar ölkədaxili zəng (8 dəq, 0.30₼/dəq)"
+TX00309,994556372899,02.08.2026 03:51,tarif_yenilenmesi,-14.99,Bakcell tətbiqi,Tarif yeniləndi: GO 14.99 (*915*2#)
+TX00050,994557777412,02.08.2026 07:59,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00127,994553377617,02.08.2026 17:56,paket_alisi,-12.0,Bakcell tətbiqi,İnternet paketi alındı: Aylıq 6 GB
+TX00020,994995749118,04.08.2026 12:50,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00191,994554544091,04.08.2026 14:41,paketdenkenar_zeng,-0.3,Bakcell tətbiqi,"Paketdənkənar ölkədaxili zəng (1 dəq, 0.30₼/dəq)"
+TX00321,994550663847,04.08.2026 17:38,paketdenkenar_sms,-0.57,Bakcell tətbiqi,"Paketdənkənar SMS (3 ədəd, 0.19₼)"
+TX00239,994997872009,05.08.2026 07:32,balans_yoxlama_ussd,-0.19,chatbot,Balans yoxlanışı (*100#)
+TX00263,994994008599,05.08.2026 22:16,balans_artirma,50,chatbot,Balans artırıldı
+TX00282,994550639436,06.08.2026 02:46,balans_yoxlama_ussd,-0.19,Bakcell tətbiqi,Balans yoxlanışı (*100#)
+TX00137,994557760207,07.08.2026 09:19,balans_yoxlama_ussd,-0.19,onlayn ödəniş,Balans yoxlanışı (*100#)
+TX00195,994554544091,07.08.2026 13:09,balans_artirma,1,Bakcell tətbiqi,Balans artırıldı
+TX00176,994554813734,07.08.2026 20:03,paket_alisi,-29.0,chatbot,İnternet paketi alındı: Aylıq 30 GB
+TX00161,994557180023,07.08.2026 20:43,paketdenkenar_zeng,-2.1,Bakcell tətbiqi,"Paketdənkənar ölkədaxili zəng (7 dəq, 0.30₼/dəq)"
+TX00088,994992616751,08.08.2026 02:33,paketdenkenar_zeng,-1.8,555 zəng mərkəzi,"Paketdənkənar ölkədaxili zəng (6 dəq, 0.30₼/dəq)"
+TX00065,994559729975,09.08.2026 15:49,balans_artirma,3,Bakcell tətbiqi,Balans artırıldı
+TX00182,994552675112,09.08.2026 19:17,balans_artirma,1,onlayn ödəniş,Balans artırıldı
+TX00183,994552675112,09.08.2026 21:43,paket_alisi,-29.0,Bakcell tətbiqi,İnternet paketi alındı: Aylıq 30 GB
+TX00331,994555856732,10.08.2026 03:22,tarif_yenilenmesi,-11.99,chatbot,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00247,994999835503,10.08.2026 10:36,balans_artirma,3,USSD,Balans artırıldı
+TX00245,994550862019,11.08.2026 08:03,tarif_yenilenmesi,-19.99,onlayn ödəniş,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00074,994997986828,11.08.2026 13:33,paketdenkenar_sms,-0.19,Bakcell tətbiqi,"Paketdənkənar SMS (1 ədəd, 0.19₼)"
+TX00109,994554072247,11.08.2026 16:49,balans_artirma,1,Bakcell tətbiqi,Balans artırıldı
+TX00120,994559310025,11.08.2026 19:40,paketdenkenar_zeng,-2.7,555 zəng mərkəzi,"Paketdənkənar ölkədaxili zəng (9 dəq, 0.30₼/dəq)"
+TX00250,994999835503,12.08.2026 11:59,paket_alisi,-1.5,chatbot,İnternet paketi alındı: Gündəlik 1 GB
+TX00032,994993212233,12.08.2026 16:07,balans_artirma,3,USSD,Balans artırıldı
+TX00007,994551815908,13.08.2026 00:58,paket_alisi,-19.0,Bakcell tətbiqi,İnternet paketi alındı: Aylıq 15 GB
+TX00347,994554577691,13.08.2026 03:23,paketdenkenar_sms,-0.38,USSD,"Paketdənkənar SMS (2 ədəd, 0.19₼)"
+TX00080,994553340187,13.08.2026 16:30,tarif_deyisikliyi,-7.99,Bakcell tətbiqi,Tarif dəyişdirildi: GO 7.99 (keçid 0₼ + abunə haqqı)
+TX00291,994999874906,14.08.2026 03:14,paketdenkenar_zeng,-2.7,USSD,"Paketdənkənar ölkədaxili zəng (9 dəq, 0.30₼/dəq)"
+TX00174,994554813734,14.08.2026 19:09,tarif_yenilenmesi,-19.99,onlayn ödəniş,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00082,994992616751,15.08.2026 03:35,paket_alisi,-6.0,555 zəng mərkəzi,İnternet paketi alındı: Aylıq 1.5 GB
+TX00235,994997872009,15.08.2026 09:46,balans_artirma,20,Bakcell tətbiqi,Balans artırıldı
+TX00134,994558341704,19.08.2026 00:42,balans_artirma,3,USSD,Balans artırıldı
+TX00327,994554677096,19.08.2026 04:54,tarif_yenilenmesi,-11.99,chatbot,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00095,994994628897,19.08.2026 07:12,balans_artirma,10,onlayn ödəniş,Balans artırıldı
+TX00310,994556372899,20.08.2026 08:16,balans_yoxlama_ussd,-0.19,chatbot,Balans yoxlanışı (*100#)
+TX00201,994554449454,20.08.2026 19:57,tarif_yenilenmesi,-19.99,USSD,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00006,994551815908,21.08.2026 02:34,paket_alisi,-29.0,USSD,İnternet paketi alındı: Aylıq 30 GB
+TX00155,994992883143,21.08.2026 05:16,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00172,994995378383,21.08.2026 11:59,balans_artirma,1,555 zəng mərkəzi,Balans artırıldı
+TX00319,994552359852,21.08.2026 20:28,paketdenkenar_zeng,-2.4,555 zəng mərkəzi,"Paketdənkənar ölkədaxili zəng (8 dəq, 0.30₼/dəq)"
+TX00242,994550862019,21.08.2026 23:50,tarif_yenilenmesi,-19.99,USSD,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00266,994994008599,22.08.2026 05:45,paketdenkenar_zeng,-1.5,Bakcell tətbiqi,"Paketdənkənar ölkədaxili zəng (5 dəq, 0.30₼/dəq)"
+TX00131,994558341704,22.08.2026 12:03,balans_artirma,10,USSD,Balans artırıldı
+TX00298,994999874906,23.08.2026 13:22,paket_alisi,-1.5,onlayn ödəniş,İnternet paketi alındı: Gündəlik 1 GB
+TX00314,994552359852,23.08.2026 22:51,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00241,994550862019,24.08.2026 21:26,tarif_yenilenmesi,-19.99,555 zəng mərkəzi,Tarif yeniləndi: GO 19.99 (*920*2#)
+TX00037,994996661760,25.08.2026 04:56,tarif_deyisikliyi,-14.99,Bakcell tətbiqi,Tarif dəyişdirildi: GO 14.99 (keçid 0₼ + abunə haqqı)
+TX00311,994556372899,25.08.2026 15:14,paket_alisi,-2.0,Bakcell tətbiqi,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00320,994552359852,25.08.2026 15:18,balans_yoxlama_ussd,-0.19,555 zəng mərkəzi,Balans yoxlanışı (*100#)
+TX00162,994557180023,25.08.2026 15:37,paketdenkenar_sms,-0.57,chatbot,"Paketdənkənar SMS (3 ədəd, 0.19₼)"
+TX00119,994559310025,26.08.2026 06:39,balans_artirma,1,chatbot,Balans artırıldı
+TX00021,994994650752,26.08.2026 23:31,tarif_yenilenmesi,-14.99,onlayn ödəniş,Tarif yeniləndi: GO 14.99 (*915*2#)
+TX00227,994552542821,27.08.2026 15:47,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00244,994550862019,27.08.2026 19:05,balans_artirma,3,chatbot,Balans artırıldı
+TX00335,994555856732,28.08.2026 11:30,paket_alisi,-2.0,chatbot,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00073,994559729975,28.08.2026 15:38,paket_alisi,-2.0,555 zəng mərkəzi,İnternet paketi alındı: Limitsiz gecə interneti (00:00-08:00)
+TX00146,994997924708,29.08.2026 12:31,balans_artirma,20,555 zəng mərkəzi,Balans artırıldı
+TX00292,994999874906,29.08.2026 16:42,tarif_yenilenmesi,-7.99,USSD,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00038,994996661760,29.08.2026 17:00,tarif_yenilenmesi,-7.99,555 zəng mərkəzi,Tarif yeniləndi: GO 7.99 (*903*2#)
+TX00106,994557167868,29.08.2026 21:27,tarif_yenilenmesi,-11.99,USSD,Tarif yeniləndi: GO 11.99 (*905*2#)
+TX00223,994996605366,31.08.2026 10:37,balans_artirma,3,Bakcell tətbiqi,Balans artırıldı
+TX00224,994996605366,31.08.2026 13:37,balans_artirma,5,chatbot,Balans artırıldı

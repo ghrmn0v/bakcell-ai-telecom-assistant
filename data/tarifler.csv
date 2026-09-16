@@ -1,0 +1,7 @@
+﻿tarif_id,ad,qiymet_azn,muddet_gun,internet_gb,deqiqe,sms,sosial_media_gb,whatsapp_pulsuz,ai_pulsuz_gb,rouminq_gb,yenileme_kodu,menbe,aktivasiya_kodu
+GO799,GO 7.99,7.99,14,3,200,100,0,false,1,0,*903*2#,real (bakcell.com),
+GO1199,GO 11.99,11.99,28,5,300,150,0,true,1,0,*905*2#,real (bakcell.com),*905#YES
+GO1499,GO 14.99,14.99,28,8,500,200,0,true,1,0,*915*2#,sintetik (real xəttə interpolyasiya),
+GO1999,GO 19.99,19.99,28,15,750,300,2,true,1,0,*920*2#,sintetik (real xəttə interpolyasiya),
+GOPRO2999,GO Pro 29.99,29.99,28,30,1500,750,3,true,1,0,*930*2#,sintetik (real xəttə interpolyasiya),
+GOPRO5999,GO Pro 59.99,59.99,28,60,3000,1500,5,true,1,1,*960*2#,real (bakcell.com),
